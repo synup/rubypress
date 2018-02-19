@@ -2,7 +2,7 @@ $LOAD_PATH.push File.expand_path('../lib', __FILE__)
 
 Gem::Specification.new do |s|
   s.name = 'rubypress'
-  s.version = '1.2.3'
+  s.version = '1.2.31'
   s.platform = Gem::Platform::RUBY
   s.author = 'WTF'
   s.email = ['zachfeldman@gmail.com']
